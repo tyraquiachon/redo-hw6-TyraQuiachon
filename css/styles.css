@@ -1,0 +1,78 @@
+/* Color Palette
+#C599B6 (mauve purple, darkest color)
+#FFF7F3 (off white, lightest)
+#FAD0C4 (peach)
+#FFF7F3 (off white)
+#E6B2BA (pink)
+*/
+/* Global styles 
+------------------------------------*/
+body {
+    background: #FFF7F3;
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+}
+
+h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 0;
+}
+
+h3 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
+}
+
+
+/* Header & Footer 
+------------------------------------*/
+header {
+    background: #C599B6;
+    color: #FFF7F3;
+}
+
+footer {
+    background: #C599B6;
+    color: #FFF7F3;
+    text-align: center;
+}
+
+footer a {
+    color: #FFF7F3;
+}
+
+
+/* Work Experience
+------------------------------------*/
+.work-experience {
+    background: #FFF7F3;
+}
+
+
+/* Education
+------------------------------------*/
+.education {
+    background: #FAD0C4;
+}
+
+/* Profile Pic
+------------------------------------*/
+.profile-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}

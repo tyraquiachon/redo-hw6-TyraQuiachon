@@ -1,2 +1,2 @@
-# redo-hw6-TyraQuiachon
-Fixed Submission for Homework 6 - COMP 484
+# comp484-hw6-main-TyraQuiachon
+Homework for COMP 484 - Personal Resume

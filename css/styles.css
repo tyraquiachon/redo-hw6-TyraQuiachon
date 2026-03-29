@@ -1,12 +1,10 @@
-/* Color Palette
+/*
 #C599B6 - mauve purple
 #FAD0C4 - peachy
 #FFF7F3 - off white/egshell
 #E6B2BA - light pink
 */
 
-/* Global styles 
-------------------------------------*/
 body {
     background: #FFF7F3;
     font-family: 'Raleway', sans-serif;
@@ -37,8 +35,7 @@ p {
 }
 
 
-/* Header & Footer 
-------------------------------------*/
+/* header & footer */
 header {
     background: #C599B6;
     color: #FFF7F3;
@@ -55,21 +52,18 @@ footer a {
 }
 
 
-/* Work Experience
-------------------------------------*/
+/* work exp */
 .work-experience {
     background: #FFF7F3;
 }
 
 
-/* Education
-------------------------------------*/
+/* edu */
 .education {
     background: #FAD0C4;
 }
 
-/* Profile Pic
-------------------------------------*/
+/* pic */
 .profile-img {
     width: 200px;
     height: 200px;
